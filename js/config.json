@@ -1,0 +1,23 @@
+{
+  "projectFile": "AfterEffects/TZ Collect/ТЗ JS.aep",
+  "customCompName": "Customize Scene",
+  "renderCompName": "Render",
+  "videoLayerNames": [
+    "Video 1",
+    "Video 2",
+    "Video 3"
+  ],
+  "videoFiles": {
+    "Video 1": "AfterEffects/TZ Collect/(Footage)/Material/Video 1.mp4",
+    "Video 2": "AfterEffects/TZ Collect/(Footage)/Material/Video 2.mp4",
+    "Video 3": "AfterEffects/TZ Collect/(Footage)/Material/Video 3.mp4"
+  },
+  "outputDir": "AfterEffects/Output",
+  "textReplacement": "Changed",
+  "fillColor": [
+    1,
+    0,
+    0,
+    1
+  ]
+}
